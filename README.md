@@ -6,5 +6,17 @@
 # Why should I use Crosshair Engine over Unity or GameMaker?
 Crosshair Engine is a completely open-source and free to work with as well as providing a simplified, intutitive development environment.
 
+# Technical Details
+
+## Libraries Used
+ctypes
+tkinter
+os
+json
+math
+time
+itertools
+pathlib
+
 # Documentation
 **View documentation.md in the project files**
